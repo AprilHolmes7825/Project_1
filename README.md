@@ -12,10 +12,10 @@ README.md: Documentation providing an overview of the project, instructions, and
 
 # Data Collection
 
-Reddit Data
+*Reddit Data
 Used the Reddit API and the PRAW library to collect information from the "wallstreetbets" subreddit.
 Extracted details such as post title, upvotes, comments, and date.
-Yahoo Finance Data
+*Yahoo Finance Data
 Utilized the Yahoo Finance API to gather real-time and historical data for Tesla, Inc.
 Retrieved information like stock symbol, market price, day range, and historical stock prices.
 
@@ -48,24 +48,26 @@ Conducted a linear regression analysis on upvotes vs. comments to explore their 
 # Yahoo Finance Data
 Extracted key financial indicators for Tesla, Inc., such as market price, 52-week range, and average analyst rating.
 Obtained historical stock price data for the past 100 days.
-Correlation Analysis
+
+# Correlation Analysis
 
 # Merged Reddit and Yahoo Finance data for combined analysis.
 Explored potential correlations between Reddit engagement metrics (upvotes and comments) and stock performance.
-Visualization
+
+# Visualization
 
 Created visualizations using Matplotlib to display relationships between Reddit engagement metrics and stock performance.
 Plotted linear regression lines to highlight trends.
 
 # Conclusion
 
-Reddit Engagement vs. Stock Performance: Analyzed the relationship between Reddit post engagement and Tesla stock performance. The linear regression analysis suggests a positive correlation between upvotes and comments, indicating higher engagement for certain stock-related posts.
-Historical Stock Performance: Explored historical stock prices for Tesla, Inc. over the past 100 days. Visualized trends and patterns in the stock's performance.
+*Reddit Engagement vs. Stock Performance: Analyzed the relationship between Reddit post engagement and Tesla stock performance. The linear regression analysis suggests a positive correlation between upvotes and comments, indicating higher engagement for certain stock-related posts.
+*Historical Stock Performance: Explored historical stock prices for Tesla, Inc. over the past 100 days. Visualized trends and patterns in the stock's performance.
 
 # Suggestions for Further Analysis
 
-Sentiment Analysis: Incorporate sentiment analysis on Reddit comments to understand the overall sentiment of the community towards specific stocks.
-Volume Analysis: Explore the correlation between stock trading volume and Reddit engagement to identify potential trends or anomalies.
+*Sentiment Analysis: Incorporate sentiment analysis on Reddit comments to understand the overall sentiment of the community towards specific stocks.
+*Volume Analysis: Explore the correlation between stock trading volume and Reddit engagement to identify potential trends or anomalies.
 
 # Instructions for Running the Code
 
