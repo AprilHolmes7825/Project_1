@@ -1,14 +1,8 @@
-# Project_1
-
-## Project Idea
-
-## Data Source
-
-## Group Members
-
 ## Project Title
 Overview
 This project retrieves data from Yahoo Finance and Reddit, performs analysis, and visualizes the relationship between Reddit upvotes and comments. It also fetches historical stock data for a specific symbol from Yahoo Finance and conducts a linear regression analysis.
+## Data Source
+
 ## Dependencies
 * Python 3.x
     * Libraries:
@@ -35,6 +29,12 @@ This project retrieves data from Yahoo Finance and Reddit, performs analysis, an
 The script outputs visualizations depicting the relationship between Reddit upvotes and comments, as well as historical stock data for the specified symbol.
 License
 This project is licensed under the MIT License.
+## Group Members
+1.Lee,Ian
+2.Christopher Avallon
+3.April Holmes
+4.Dave Burgman
+5.Navdeep Kaur
 ## Acknowledgments
 * Data sourced from Yahoo Finance and Reddit.
 * Special thanks to the developers of the used libraries and APIs.
