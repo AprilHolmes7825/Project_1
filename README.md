@@ -27,8 +27,8 @@ Utilized the Yahoo Finance API to gather real-time and historical data for Tesla
 Retrieved information like stock symbol, market price, day range, and historical stock prices.
 
 # Obtain API keys:
-Reddit: Create a Reddit app here to get your client ID and secret.
-Yahoo Finance: Get your API key from the RapidAPI Yahoo Finance API.
+Reddit: Create a Reddit app [here](https://www.reddit.com/prefs/apps) to get your client ID and secret.
+Yahoo Finance: Get your API key from the [RapidAPI Yahoo Finance API](https://rapidapi.com/apidojo/api/yahoo-finance1).
 
 # Dependencies
 * Python 3.x
