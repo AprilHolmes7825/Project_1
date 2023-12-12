@@ -39,7 +39,7 @@ Retrieved information like stock symbol, market price, day range, and historical
 
 
 
-## Data Analysis
+# Data Analysis
 
 # Reddit Data
 Calculated the mean of upvotes for the latest 100 Reddit posts.
