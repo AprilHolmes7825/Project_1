@@ -56,8 +56,8 @@ Yahoo Finance: Get your API key from the [RapidAPI Yahoo Finance API](https://ra
 ## Data Analysis
 
 ## Reddit Data
-Calculated the mean of upvotes for the latest 100 Reddit posts.
-Conducted a linear regression analysis on upvotes vs. comments to explore their relationship.
+Conducted a linear regression analysis on Daily Change vs. comments to explore their relationship.
+![Screenshot 2023-12-12 121933](https://github.com/kaurn6538/Matplotlib_challenge/assets/98873779/52019cfe-1201-48a1-9a0e-372ad6fef1df)
 
 ## Yahoo Finance Data
 Extracted key financial indicators for Tesla, Inc., such as market price, 52-week range, and average analyst rating.
