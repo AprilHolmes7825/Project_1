@@ -7,8 +7,8 @@ This project involves the analysis of data from the WallStreetBets subreddit on 
 
 ## Data Source
 
-Reddit_data_pull.ipynb: Jupyter Notebook containing the Python code for data collection, analysis, and visualization.
-README.md: Documentation providing an overview of the project, instructions, and insights.
+* Reddit_data_pull.ipynb: Jupyter Notebook containing the Python code for data collection, analysis, and visualization.
+* README.md: Documentation providing an overview of the project, instructions, and insights.
 
 ## Create a config.py file and set the following variables:
 * reddit_client_id = "YOUR_REDDIT_CLIENT_ID"
