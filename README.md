@@ -7,8 +7,15 @@ This project involves the analysis of data from the WallStreetBets subreddit on 
 
 # Data Source
 
-Reddit_data_pull2.ipynb: Jupyter Notebook containing the Python code for data collection, analysis, and visualization.
+Reddit_data_pull.ipynb: Jupyter Notebook containing the Python code for data collection, analysis, and visualization.
 README.md: Documentation providing an overview of the project, instructions, and insights.
+
+# Create a config.py file and set the following variables:
+reddit_client_id = "YOUR_REDDIT_CLIENT_ID"
+reddit_secret_key = "YOUR_REDDIT_SECRET_KEY"
+reddit_user_name = "YOUR_REDDIT_USERNAME"
+reddit_password = "YOUR_REDDIT_PASSWORD"
+yahoo_api_key = "YOUR_YAHOO_API_KEY"
 
 # Data Collection
 
@@ -18,6 +25,10 @@ Extracted details such as post title, upvotes, comments, and date.
 * Yahoo Finance Data
 Utilized the Yahoo Finance API to gather real-time and historical data for Tesla, Inc.
 Retrieved information like stock symbol, market price, day range, and historical stock prices.
+
+# Obtain API keys:
+Reddit: Create a Reddit app here to get your client ID and secret.
+Yahoo Finance: Get your API key from the RapidAPI Yahoo Finance API.
 
 # Dependencies
 * Python 3.x
@@ -36,7 +47,10 @@ Retrieved information like stock symbol, market price, day range, and historical
 * 		Replace the placeholder values in the code with your actual API keys, client ID, secret key, Reddit username, and password.
 * 		Run the Python script (Reddit_data_pull2.ipynb) in your preferred environment.
 
-
+# Usage
+* Run the script.
+* Enter the stock symbol when prompted.
+* Additional search terms can be added for Reddit searches. Press Enter when done.
 
 
 # Data Analysis
