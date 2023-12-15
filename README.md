@@ -56,8 +56,10 @@ Yahoo Finance: Get your API key from the [RapidAPI Yahoo Finance API](https://ra
 ## Data Analysis
 
 ## Reddit Data
-Conducted a linear regression analysis on Daily Change vs. comments to explore their relationship.
+* Conducted a linear regression analysis on Daily Change vs. comments to explore their relationship.
 ![Screenshot 2023-12-12 121933](https://github.com/kaurn6538/Matplotlib_challenge/assets/98873779/52019cfe-1201-48a1-9a0e-372ad6fef1df)
+* Ran Spearman’s Rank Correlation Test to determine dependency.
+
 
 ## Yahoo Finance Data
 Extracted key financial indicators for Tesla, Inc., such as market price, 52-week range, and average analyst rating.
@@ -77,6 +79,10 @@ Plotted linear regression lines to highlight trends.
 
 * Reddit Engagement vs. Stock Performance: Analyzed the relationship between Reddit post engagement and Tesla stock performance. The linear regression analysis suggests a positive correlation between upvotes and comments, indicating higher engagement for certain stock-related posts.
 * Historical Stock Performance: Explored historical stock prices for Tesla, Inc. over the past 100 days. Visualized trends and patterns in the stock's performance.
+* ![Picture1](https://github.com/AprilHolmes7825/Project_1/assets/98873779/8671985b-378b-4b30-97e8-642ba0465f7e)
+* Price change and frequency of mentions seem to have only a slight correlation, however the topography of price changes and social media mentions are similar
+ Using live data which tracks mentions rather than sentiment, the statistical correlation between the two datasets will be constantly changing. However, we can still use this visualization to track social media’s impact on historical price movement as well as the inverse (price movement affecting frequency of mentions) and use this information to find sleeper stocks, identify targeted price manipulation, and predict trades within the market and amongst members of WallStreetBets
+
 
 ## Suggestions for Further Analysis
 
