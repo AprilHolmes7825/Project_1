@@ -43,7 +43,10 @@ Yahoo Finance: Get your API key from the [RapidAPI Yahoo Finance API](https://ra
       
 
 ## Setup
-* 		Install the required dependencies using: bash  Copy codepip install json requests praw pandas matplotlib numpy scipy
+* 		Install the required dependencies using:
+bash
+
+Copy codepip install json requests praw pandas matplotlib numpy scipy
 * 		Replace the placeholder values in the code with your actual API keys, client ID, secret key, Reddit username, and password.
 * 		Run the Python script (Reddit_data_pull2.ipynb) in your preferred environment.
 
@@ -54,6 +57,9 @@ Yahoo Finance: Get your API key from the [RapidAPI Yahoo Finance API](https://ra
 
 
 ## Data Analysis
+The correlation between subreddit WallStreetBets and stock trends were uncorrelated. 
+Upon testing various stock values such as Open price, Close price, and Daily Price Change, with both reddit upvotes and comments, the only significant correlation was between upvotes and comments.
+
 
 ## Reddit Data
 * Conducted a linear regression analysis on Daily Change vs. comments to explore their relationship.
